@@ -8,3 +8,4 @@ Recuerda [descargar la ultima release archivo](https://github.com/chmodmasx/sin_
 **COMPATIBILIDAD (TESTEADO)**:
 - Linux Mint 22.xx
 - Ubuntu 24.xx
+- LMDE6
