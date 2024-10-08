@@ -3,7 +3,7 @@ Este script se encarga de cederle al usuario que lo ejecute, permisos para no te
 
 Nota: Este script NO quita tu contraseña ni la elimina, puedes seguir bloqueando tu equipo normalmente y demás.
 
-Recuerda [descargar la ultima release archivo](https://github.com/chmodmasx/sin_password/releases) y ejecutarla así: sudo bash permisos.sh
+Recuerda [descargar la ultima release archivo](https://github.com/chmodmasx/sin_password/releases) y ejecutarla así: **sudo bash permisos.sh**
 
 **COMPATIBILIDAD (TESTEADO)**:
 - Linux Mint 22.xx
